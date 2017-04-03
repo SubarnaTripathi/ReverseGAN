@@ -1,7 +1,6 @@
 # Precise Recovery of Latent Vectors from Generative Adversarial Networks
 
-This code implements the following paper: 
-Z.C. Lipton, S. Tripathi, Precise Recovery of Latent Vectors from Generative Adversarial Networks. ICLR 2017 workshop track [arxiv] 
-https://vision.cornell.edu/se3/wp-content/uploads/2017/03/recovering-latent-vectors.pdf
+This repository implements Zachary C. Lipton and subarna Tripathi's paper Precise Recovery of Latent Vectors from Generative Adversarial Networks, ICLR 2017 workshop track [arxiv]. https://arxiv.org/abs/1702.04782
 
-It is implemented using TensorFlow and TF-Slim.
+Most of the code in this repository was written by modifying a duplicate of Brandon Amos's DCGAN-completion-tensorflow project, which is MIT-licensed. Our modifications are also MIT-licensed.
+The ./checkpoint_new2 directory contains a pre-trained model for faces used in the paper.
