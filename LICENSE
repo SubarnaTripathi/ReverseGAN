@@ -1,8 +1,9 @@
-the code for recovering latent vectors is built on top of 
+The code for recovering latent vectors with stochastic clipping, projected gradient and without clipping is built on top of 
 Brandon Amos's DCGAN-completion-tensorflow project:
 https://github.com/bamos/dcgan-completion.tensorflow
 
-The above mentioned additions are Copyright (c) 2017 Subarna Tripathi
+The above mentioned additions belong to
+Copyright (c) 2017 Subarna Tripathi
 
 In compliance with the license for DCGAN-tensorflow, we reproduce the license
 statement below, and release the code in this directory under the same license.
