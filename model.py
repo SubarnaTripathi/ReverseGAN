@@ -3,6 +3,8 @@
 #   + License: MIT
 # [2016-08-05] Modifications for Completion: Brandon Amos (http://bamos.github.io)
 #   + License: MIT
+# [2017-04-04] Modifications for latent vector recovery: Subarna Tripathi (http://acsweb.ucsd.edu/~stripath/research)
+#   + License: MIT
 
 from __future__ import division
 import os
