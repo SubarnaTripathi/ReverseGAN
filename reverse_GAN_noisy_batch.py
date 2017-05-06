@@ -1,3 +1,7 @@
+# Subarna Tripathi (http://acsweb.ucsd.edu/~stripath/research)
+# License: MIT
+# 2017-04-04
+
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
