@@ -24,9 +24,9 @@ from utils import pp, visualize, to_json
 
 flags = tf.app.flags
 
-flags.DEFINE_float("learning_rate", 0.0002, "Learning rate of for adam [0.0002]")
-flags.DEFINE_float("beta1", 0.5, "Momentum term of adam [0.5]")
-flags.DEFINE_string("checkpoint_dir", "checkpoint_new2", "Directory name to save the checkpoints [checkpoint]")
+#flags.DEFINE_float("learning_rate", 0.0002, "Learning rate of for adam [0.0002]")
+#flags.DEFINE_float("beta1", 0.5, "Momentum term of adam [0.5]")
+#flags.DEFINE_string("checkpoint_dir", "checkpoint_new2", "Directory name to save the checkpoints [checkpoint]")
 FLAGS = flags.FLAGS
 
 from PIL import Image
