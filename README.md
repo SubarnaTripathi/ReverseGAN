@@ -4,3 +4,5 @@ This repository implements Zachary C. Lipton and Subarna Tripathi's paper Precis
 
 Most of the code in this repository was written by modifying Brandon Amos's DCGAN-completion-tensorflow project, which is MIT-licensed. Our modifications are also MIT-licensed.
 The ./checkpoint_new2 directory contains a pre-trained model for faces used in the paper.
+
+Yixing Lao's implementation in Pytorch: https://github.com/yxlao/pytorch-reverse-gan
